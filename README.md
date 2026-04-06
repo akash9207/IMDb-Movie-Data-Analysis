@@ -53,7 +53,7 @@ The dashboard was designed with a premium, dark "IMDb-style" theme. It includes 
 4. Interact with the dashboard by using the "Select Year" and "Select Genre" slicers on the left panel, or click on specific visual elements to cross-filter the data.
 
 ## 📁 Files Included
-* `movie_metadata.csv` - The original raw dataset.
+* `movie_metadata-DATASET.csv` - The original raw dataset.
 * `movie_metadata cleaned -Akash M.xlsx` - The cleaned dataset used for modeling.
 * `Movie Metadata-Akash M.pbix` - The Power BI project file.
 * `Screenshots/` - Images of the final dashboard pages.
