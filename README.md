@@ -56,5 +56,4 @@ The dashboard was designed with a premium, dark "IMDb-style" theme. It includes 
 * `movie_metadata.csv` - The original raw dataset.
 * `movie_metadata cleaned -Akash M.xlsx` - The cleaned dataset used for modeling.
 * `Movie Metadata-Akash M.pbix` - The Power BI project file.
-* `Data Cleaning Report.docx` / `PROJECT DOCUMENTATION.docx` - Detailed step-by-step reports.
 * `Screenshots/` - Images of the final dashboard pages.
